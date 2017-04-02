@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Newnham College</string>
+    <string name="business_name">Newnham College</string>
+   <string name="business_detail">Newnham is one of the 31 colleges of the University of Cambridge in England.
+It was established in 1871 for women, and has remained as a women\'s college ever since. </string>
+    <string name="business_adress">Newnham College\nSidgwick Avenue\nCambridge\nCB3 9DF</string>
+    <string name="business_email">enquiries@newn.cam.ac.uk</string>
+    <string name="business_tel">Tel. +44 (0)1223 335700</string>
+    <string name="business_web">http://www.newn.cam.ac.uk/</string>
+</resources>
